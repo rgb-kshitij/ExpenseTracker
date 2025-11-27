@@ -6,15 +6,15 @@ It supports authentication, data export, dark mode, analytics charts, and a clea
 ---
 ## 📑 Table of Contents
 
-- [🚀 Live Demo](#🚀-live-demo)
-- [✨ Features](#✨-features)
-- [🧠 Tech Used](#🧠-tech-used)
-- [📦 Installation](#📦-installation)
-- [📂 Folder Structure](#📂-folder-structure)
-- [📌 Why I Built This](#📌-why-i-built-this)
-- [🚧 Future Improvements](#🚧-future-improvements)
-- [🛠 Screenshots](#🛠-screenshots)
-- [📄 License](#📄-license)
+- [🚀 Live Demo](#live-demo)
+- [✨ Features](#features)
+- [🧠 Tech Used](#tech-used)
+- [📦 Installation](#installation)
+- [📂 Folder Structure](#folder-structure)
+- [📌 Why I Built This](#why-i-built-this)
+- [🚧 Future Improvements](#future-improvements)
+- [🛠 Screenshots](#screenshots)
+- [📄 License](#license)
 
 
 ---

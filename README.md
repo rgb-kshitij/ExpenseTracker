@@ -84,7 +84,6 @@ python app.py
 ```
 
 ## Folder Structure
-
 ExpenseTracker/
 │── static/
 │   └── theme.css

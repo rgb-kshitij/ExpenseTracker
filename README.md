@@ -43,14 +43,14 @@ A full-stack web application to record, manage, and analyze expenses with authen
 
 ---
 
-## Live Demo
+## 🚀 Live Demo
 
 🔗 https://expensetracker-6h90.onrender.com  
 (Sign up to use.)
 
 ---
 
-## Features
+## ✨ Features
 
 - User authentication (Signup/Login/Logout)
 - Add, edit, and delete expenses
@@ -62,7 +62,7 @@ A full-stack web application to record, manage, and analyze expenses with authen
 
 ---
 
-## Tech Stack
+## 🧠 Tech Stack
 
 | Category | Tools |
 |----------|-------|
@@ -76,7 +76,7 @@ A full-stack web application to record, manage, and analyze expenses with authen
 
 ---
 
-## Installation
+## 🛠 Installation
 
 ```sh
 git clone https://github.com/rgb-kshitij/ExpenseTracker.git
@@ -109,7 +109,7 @@ ExpenseTracker/
 
 ---
 
-## Why I Built This
+## 📌 Why I Built This
 
 I built this project to understand real-world development concepts including:
   -User authentication
@@ -121,7 +121,7 @@ I built this project to understand real-world development concepts including:
 
 ---
 
- ## Future Improvements
+ ## 📈 Future Improvements
 
   -Monthly expense summary
   -Budget alerts
@@ -132,7 +132,34 @@ I built this project to understand real-world development concepts including:
 
   ---
 
- ## License
+  ## 📷 Screenshots
+
+### 🏠 Home Page
+![Home Page](uploa<img width="1080" height="763" alt="homepage light" src="https://github.com/user-attachments/assets/0d69c8fa-6153-4c7f-9c61-6d3e30dfbec1" />
+)
+
+---
+
+### 🔐 Login Page
+![Login](<img width="1080" height="738" alt="login screen" src="https://github.com/user-attachments/assets/c3991e70-9212-4e8a-a8c4-1d82bf014e1f" />
+)
+
+---
+
+### 📊 Dashboard View
+![Dashboard](<img width="771" height="1334" alt="dashboard" src="https://github.com/user-attachments/assets/5e0c91f8-8443-4625-988a-9896cdeb98a8" />
+)
+
+
+---
+
+### 🌙 Dark Mode
+![Dark Mode](<img width="1080" height="777" alt="homepage dark" src="https://github.com/user-attachments/assets/a46c08b7-a79f-4c8b-a8b6-611d16387418" />
+)
+
+---
+
+ ## 📄 License
 
   MIT License — free to use, modify, and distribute.
 

@@ -1,55 +1,54 @@
 # 💰 Expense Tracker
 
-A full-stack web app that helps users record, manage, and analyze daily expenses.  
-It supports authentication, data export, dark mode, analytics charts, and a clean responsive UI.
+A full-stack web app to record, manage, and analyze daily expenses.  
+Users can sign up, log in, add expenses, edit/delete records, export data as CSV, and view interactive charts — all inside a clean UI with Dark/Light mode.
 
 ---
+
 ## 📑 Table of Contents
 
-- [🚀 Live Demo](#live-demo)
-- [✨ Features](#features)
-- [🧠 Tech Used](#tech-used)
-- [📦 Installation](#installation)
-- [📂 Folder Structure](#folder-structure)
-- [📌 Why I Built This](#why-i-built-this)
-- [🚧 Future Improvements](#future-improvements)
-- [🛠 Screenshots](#screenshots)
-- [📄 License](#license)
-
+- [🚀 Live Demo](#-live-demo)
+- [✨ Features](#-features)
+- [🧠 Tech Stack](#-tech-stack)
+- [📦 Installation](#-installation)
+- [📂 Folder Structure](#-folder-structure)
+- [📌 Why I Built This](#-why-i-built-this)
+- [🚧 Future Improvements](#-future-improvements)
+- [📄 License](#-license)
 
 ---
 
 ## 🚀 Live Demo
 
-🔗 https://expensetracker-6h90.onrender.com  
-(Sign up and start using.)
+🔗 **https://expensetracker-6h90.onrender.com**  
+(Create an account to start.)
 
 ---
 
 ## ✨ Features
 
-- 🔐 User authentication (Signup/Login/Logout)
-- ➕ Add, edit & delete expenses
-- 👤 User-specific stored data
-- 📥 Export data as CSV
-- 📊 Dashboard analytics using Plotly
-- 🌙 Dark / Light mode (saved in browser)
-- 🔔 Flash toast notifications
-- 📱 Responsive UI (Bootstrap)
+- 🔐 Login / Signup / Logout system  
+- ➕ Add, Edit & Delete expenses  
+- 👤 User-specific stored data  
+- 📥 Download expenses as CSV  
+- 📊 Dashboard with Plotly charts  
+- 🌙 Dark / Light theme toggle with save preference  
+- 🔔 Flash notifications on every action  
+- 📱 Mobile-friendly UI (Bootstrap)
 
 ---
 
-## 🧠 Tech Used
+## 🧠 Tech Stack
 
-| Category | Tech |
-|---------|------|
+| Area | Technology |
+|------|------------|
 | Backend | Flask (Python) |
-| Frontend | HTML, CSS, Bootstrap |
-| Charts | Plotly Express |
 | Database | SQLite |
-| Auth | Flask-Login |
+| Frontend | HTML, CSS, Bootstrap |
+| Auth System | Flask-Login |
+| Charts | Plotly Express |
 | Deployment | Render |
-| Version control | Git + GitHub |
+| Version Control | Git + GitHub |
 
 ---
 
@@ -60,3 +59,4 @@ git clone https://github.com/rgb-kshitij/ExpenseTracker.git
 cd ExpenseTracker
 pip install -r requirements.txt
 python app.py
+

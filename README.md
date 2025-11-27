@@ -81,24 +81,29 @@ git clone https://github.com/rgb-kshitij/ExpenseTracker.git
 cd ExpenseTracker
 pip install -r requirements.txt
 python app.py
+
 ```
 
-## Folder Structure
+## 📂 Folder Structure
+
+```
 ExpenseTracker/
-│── static/
+├── static/
 │   └── theme.css
-│── templates/
+├── templates/
 │   ├── index.html
 │   ├── login.html
 │   ├── signup.html
 │   ├── edit.html
 │   └── dashboard.html
-│── instance/
+├── instance/
 │   └── expenses.db (auto-created)
-│── app.py
-│── requirements.txt
-│── Procfile
-│── README.md
+├── app.py
+├── requirements.txt
+├── Procfile
+└── README.md
+```
+
 
 ---
 

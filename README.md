@@ -16,9 +16,29 @@ A full-stack expense tracking application where users can securely log in, add e
 - [📦 Installation](#-installation)  
 - [🧾 Usage](#-usage)  
 - [📊 Dashboard Preview](#-dashboard-preview)  
-- [📂 Folder Structure](#-folder-structure)  
-- [📌 Why I Built This](#-why-i-built-this)  
-- [🚧 Future Improvements](#-future-improvements)  
+- [📂 Folder Structure](#-Folder-Structure)
+- [📌 Why I Built This](#-why-i-built-this)
+- ## 📌 Why I Built This
+
+I wanted to learn how real web applications handle:
+
+- Authentication  
+- Databases  
+- State management  
+- UI/UX  
+- Deployment  
+
+Instead of a basic CRUD project, I built a fully functional expense manager with analytics, CSV export, and dark mode — something useful and production-ready.
+
+- [🚧 Future Improvements](#-future-improvements)
+- ## 🚧 Future Improvements
+
+- [ ] Budget alerts  
+- [ ] Category icons  
+- [ ] Monthly summary report (PDF)  
+- [ ] AI insights for spending habits  
+- [ ] PostgreSQL version (for cloud persistence)
+
 - [🤝 Contributing](#-contributing)  
 - [📄 License](#-license)
 

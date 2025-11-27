@@ -86,6 +86,7 @@ def edit(id):
         expense.date = request.form['date']
 
         db.session.commit()
+        flash("Expense updated ✏️", "info")
         return redirect('/')
 
     return render_template("edit.html", expense=expense)
@@ -162,7 +163,48 @@ def login():
 @login_required
 def logout():
     logout_user()
+    flash("Logged out successfully 👋", "info")
     return redirect('/login')
+
+from flask import Response
+import csv
+from datetime import datetime
+import io
+
+@app.route('/export')
+@login_required
+def export():
+    expenses = Expense.query.filter_by(user_id=current_user.id).all()
+
+    if not expenses:
+        flash("⚠ No data to export!", "warning")
+        return redirect('/')
+
+    # Create an in-memory file
+    output = io.StringIO()
+    writer = csv.writer(output)
+
+    # Header row
+    writer.writerow(["Category", "Amount (₹)", "Date"])
+
+    # Write database values
+    for e in expenses:
+        writer.writerow([e.category, e.amount, e.date])
+
+    # Move cursor to start
+    output.seek(0)
+
+    # Send as downloadable file
+    return Response(
+        output.getvalue(),
+        mimetype="text/csv",
+        headers={
+            "Content-Disposition": f"attachment; filename={current_user.username}_expenses_{datetime.now().strftime('%Y-%m-%d')}.csv"
+        }
+    )
+
+
+
 
 if __name__ == "__main__":
     app.run(debug=True)

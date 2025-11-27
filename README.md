@@ -1,3 +1,28 @@
+<p align="center">
+
+  <!-- Core Tech -->
+  <img src="https://img.shields.io/badge/Python-3.10-green?logo=python" />
+  <img src="https://img.shields.io/badge/Flask-Framework-black?logo=flask" />
+  <img src="https://img.shields.io/badge/SQLite-Database-blue?logo=sqlite" />
+  <img src="https://img.shields.io/badge/Plotly-Charts-0099ff?logo=plotly" />
+  <img src="https://img.shields.io/badge/Bootstrap-UI-purple?logo=bootstrap" />
+
+  <br>
+
+  <!-- Repo Stats -->
+  <img src="https://img.shields.io/github/stars/rgb-kshitij/ExpenseTracker?style=social" />
+  <img src="https://img.shields.io/github/forks/rgb-kshitij/ExpenseTracker?style=social" />
+
+  <br>
+
+  <!-- Project Meta -->
+  <img src="https://img.shields.io/badge/Status-Deployed-brightgreen" />
+  <img src="https://img.shields.io/badge/License-MIT-blue" />
+</p>
+
+
+
+
 # 💰 Expense Tracker
 
 A full-stack web application to record, manage, and analyze expenses with authentication, dashboard analytics, CSV export, and Light/Dark mode.

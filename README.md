@@ -30,14 +30,16 @@ A full-stack web application to record, manage, and analyze expenses with authen
 ---
 
 ## 📌 Table of Contents
-- [Live Demo](#live-demo)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Installation](#installation)
-- [Folder Structure](#folder-structure)
-- [Why I Built This](#why-i-built-this)
-- [Future Improvements](#future-improvements)
-- [License](#license)
+
+- [✨ Features](#-features)
+- [🧠 Tech Stack](#-tech-stack)
+- [🚀 Live Demo](#-live-demo)
+- [🛠 Installation](#-installation)
+- [📂 Folder Structure](#-folder-structure)
+- [📌 Why I Built This](#-why-i-built-this)
+- [📈 Future Improvements](#-future-improvements)
+- [📷 Screenshots](#-screenshots)
+- [📄 License](#-license)
 
 ---
 

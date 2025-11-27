@@ -135,31 +135,27 @@ I built this project to understand real-world development concepts including:
   ## 📷 Screenshots
 
 ### 🏠 Home Page
-![Home Page]
-(<img width="1080" height="763" alt="homepage light" src="https://github.com/user-attachments/assets/0d69c8fa-6153-4c7f-9c61-6d3e30dfbec1" />
-)
+<img width="1080" height="763" alt="homepage light" src="https://github.com/user-attachments/assets/0d69c8fa-6153-4c7f-9c61-6d3e30dfbec1" />
+
 
 ---
 
 ### 🔐 Login Page
-![Login]
-(<img width="1080" height="738" alt="login screen" src="https://github.com/user-attachments/assets/c3991e70-9212-4e8a-a8c4-1d82bf014e1f" />
-)
+<img width="1080" height="738" alt="login screen" src="https://github.com/user-attachments/assets/c3991e70-9212-4e8a-a8c4-1d82bf014e1f" />
+
 
 ---
 
 ### 📊 Dashboard View
-![Dashboard]
-(<img width="771" height="1334" alt="dashboard" src="https://github.com/user-attachments/assets/5e0c91f8-8443-4625-988a-9896cdeb98a8" />
-)
+<img width="771" height="1334" alt="dashboard" src="https://github.com/user-attachments/assets/5e0c91f8-8443-4625-988a-9896cdeb98a8" />
+
 
 
 ---
 
 ### 🌙 Dark Mode
-![Dark Mode]
-(<img width="1080" height="777" alt="homepage dark" src="https://github.com/user-attachments/assets/a46c08b7-a79f-4c8b-a8b6-611d16387418" />
-)
+<img width="1080" height="777" alt="homepage dark" src="https://github.com/user-attachments/assets/a46c08b7-a79f-4c8b-a8b6-611d16387418" />
+
 
 ---
 
